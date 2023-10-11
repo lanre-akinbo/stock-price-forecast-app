@@ -53,7 +53,7 @@ A live demo of this project is available [here](https://stock-price-forecast-app
 
 ## Project Structure
 - `app.py`: The main Streamlit application.
-- 'LSTM Model.ipynb': The training of the machine learning model.
+- `LSTM Model.ipynb`: The training of the machine learning model.
 - `model.h5`: The trained model.
 - `requirements.txt`: List of Python libraries used in the project.
 
