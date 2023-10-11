@@ -51,7 +51,7 @@ sidebar_content = """
     
     [![Email](https://img.shields.io/badge/Email-olanreakinbo@gmail.com-informational)](mailto:olanreakinbo@gmail.com)
     
-     ### Read About the App
+     ### Read More About the App
     
     [![Medium](https://img.shields.io/badge/Read%20on%20Medium-Click%20Here-blue)](https://medium.com/your-medium-article-url)
 """
