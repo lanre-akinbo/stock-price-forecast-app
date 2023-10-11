@@ -57,9 +57,6 @@ A live demo of this project is available [here](https://stock-price-forecast-app
 - `model.h5`: The trained model.
 - `requirements.txt`: List of Python libraries used in the project.
 
-## Contributing
-Contributions are welcome. Please check the [contributing guidelines](CONTRIBUTING.md).
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
