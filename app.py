@@ -178,7 +178,7 @@ elif selected_indicator == "MACD":
     st.plotly_chart(fig_macd)
     
 # Load the pre-trained LSTM model
-model = load_model('model.keras')
+model = load_model('model.h5')
 
 # Data Preprocessing
 sequence_length = 100
