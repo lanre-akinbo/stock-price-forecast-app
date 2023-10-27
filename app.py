@@ -53,7 +53,7 @@ sidebar_content = """
     
      ### Read More About the App
     
-    [![Medium](https://img.shields.io/badge/Read%20on%20Medium-Click%20Here-blue)](https://medium.com/your-medium-article-url)
+    [![Medium](https://img.shields.io/badge/Read%20on%20Medium-Click%20Here-blue)](https://medium.com/@olanreakinbo/stock-price-forecast-web-app-78a26a850827)
 """
 
 # Add a styled sidebar
